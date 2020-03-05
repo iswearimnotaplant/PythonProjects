@@ -1,6 +1,13 @@
-#this is my first commit
-#this is the second line
-#i am a ham and some people call me sam
-#fuck you
-# and i am eveil!
-#frick
+# recursive method for factorial
+'''
+def fact(n):
+    if(n ==1):
+        return 1
+    else:
+        return n*fact(n-1)
+
+x = int(input("enter input: "))
+result = fact(x)
+
+print(result)
+'''
