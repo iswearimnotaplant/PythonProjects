@@ -1,1 +1,2 @@
 git init- if you do this in a directory, git is now thinking about that directory
+i am changing this file
